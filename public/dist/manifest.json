@@ -1,0 +1,10 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An application to track your expenditures and income",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff"
+}
